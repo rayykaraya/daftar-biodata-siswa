@@ -17,7 +17,7 @@
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 22 Desember 2002
-   Alamat : Jln. Keledang RT.13 No.26
+   Alamat : Jln. Keledang RT.13 No.26 
  
 4. Nama   : Ilham ILyas
    NIM    : H2020000004
